@@ -3,3 +3,5 @@
 EditorConfig file which overrides configurations for TypeScript, JSON and HCL code style
 
 ![](webstormConfigTutorial.gif)
+
+![](vscodeConfigTutorial.gif)
