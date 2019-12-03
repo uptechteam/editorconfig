@@ -10,3 +10,4 @@ EditorConfig file which overrides configurations for TypeScript, JSON and HCL co
 **VSCode setup sample**
 
 ![](vscodeConfigTutorial.gif)
+
